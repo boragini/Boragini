@@ -1,5 +1,8 @@
-### Fala Dev, me chamo Gabriel Boragini, seja bem-vindo(a) ao meu perfil!
-
+<div align="center">
+  <h1 style="font-family: 'Inconsolata', monospace;">
+  Fala Dev, me chamo Gabriel Boragini, seja bem-vindo(a) ao meu perfil!
+  </h1>
+</div>
 <div>
   <a href="https://github.com/boragini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=boragini&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
