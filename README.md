@@ -1,4 +1,4 @@
-### Falaaa pessoa maravilhosa, eu sou o Gabriel Boragini, seja bem-vindo(a) ao meu perfil!
+### Fala Dev, me chamo Gabriel Boragini, seja bem-vindo(a) ao meu perfil!
 
 <div align="center">
   <a href="https://github.com/boragini">
